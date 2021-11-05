@@ -1,5 +1,5 @@
 ![Logo Canvas](https://genially.blob.core.windows.net/genially/users/589bdaf9e3e75c0c6cc70002/58af4f0a85d4a01b901ed346/58af4f0a85d4a01b901ed347/2c04f548-f1d7-4a36-a358-f80849d5af8e.png)
-# Guia de consumo de API Canvas (IU Digital)
+# Guia de consumo de API Canvas
 Aquí podrás encontrar una guía practica de como hacer consumo del API de Canvas.
 Desde el siguiente [link](https://iudigital.test.instructure.com/doc/api/live) podrás ver todas y cada una de las variables y su explicación que podremos consumir, cabe señalar que cada direccionamiento de la api tiene sus limites de información que puede ser procesada por esta, por lo que cierta información no es posible extraerla con una única dirección, y según perfil cambian algunas condicionales, que podrían ser causales de mensajes de solicitud errónea, <u>*por lo que antes de consumir con la aplicación se recomienda hacer una prueba de impresión con ``[Postman](https://www.postman.com/downloads/) o el plugin [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) de [VSCode](https://code.visualstudio.com/#alt-downloads).*</u>
 
